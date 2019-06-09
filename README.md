@@ -18,7 +18,7 @@ There are 5 classes of ships to be detected which are as follows:
 
 - I have used fastai for this image classification hackathon.
 
-- Used resnet50 model for tansfer learning.Improve the model. 
+- Used resnet50 model for tansfer learning. 
 
 - First created model for pixel size 128 and then with size 256.
 
