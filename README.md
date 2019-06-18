@@ -25,3 +25,7 @@ There are 5 classes of ships to be detected which are as follows:
 - Used data augmentation (rotations, ,zoom, lighting, warping etc).
 
 - Freeze and Unfreee model for 15 epochs.
+
+## Result
+ * Public Leaderboard - 0.9674222172
+ * Private Leaderboard - 0.9663674629
